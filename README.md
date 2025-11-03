@@ -5,7 +5,8 @@ Projeto Realizado por:
 -Matheus Caleiro Pinheiro
 -Vitor Hugo dos Santos Silva
 
-1. Introdução \n
+1. Introdução
+
 Neste checkpoint, o aluno aplicará os conhecimentos de Python e segurança para criar uma
 ferramenta CLI que automatize uma tarefa real de TI ou cibersegurança.
 Para o CP 3, a entrega será prioritariamente em duplas. Caso não seja possível poderá ser feita
