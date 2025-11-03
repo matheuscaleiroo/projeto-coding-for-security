@@ -1,6 +1,10 @@
 # projeto-coding-for-security
 Checkpoint 3 – Coding for Security
 
+Projeto Realizado por:
+-Matheus Caleiro Pinheiro
+-Vitor Hugo dos Santos Silva
+
 1. Introdução
 Neste checkpoint, o aluno aplicará os conhecimentos de Python e segurança para criar uma
 ferramenta CLI que automatize uma tarefa real de TI ou cibersegurança.
